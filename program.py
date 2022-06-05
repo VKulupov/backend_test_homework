@@ -1,4 +1,5 @@
 from telnetlib import STATUS
 
 
-print('Я домашка')
+print('Я домашка!')
+print('!')
